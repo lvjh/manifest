@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<manifest>
+    <remote name="local" fetch="https://github.com/anlory/" />
+    <default remote="Martin" revision="master"/>
+    <project path="Martin" name="Martin"/>
+    <project path="/driver/Universal_GpioDrv" name="Universal_GpioDrv"/>
+    <project path="/driver/sysfs_attr" name="sysfs_attr"/>
+</manifest>
