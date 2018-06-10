@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <manifest>
-    <remote name=".." fetch="https://github.com/anlory/" />
-    <default remote="Martin" revision="master"/>
+    <remote name="anlory" fetch="https://github.com/anlory/" />
+    <default remote="anlory" revision="master"/>
     <project path="/driver/Universal_GpioDrv" name="Universal_GpioDrv"/>
     <project path="/driver/sysfs_attr" name="sysfs_attr"/>
     <project path="binder" name="anlory_binder"/>
