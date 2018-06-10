@@ -6,4 +6,9 @@
     <project path="Martin" name="Martin"/>
     <project path="/driver/Universal_GpioDrv" name="Universal_GpioDrv"/>
     <project path="/driver/sysfs_attr" name="sysfs_attr"/>
+    <project path="binder" name="anlory_binder"/>
+    <project path="config" name="linux_config"/>
+    <project path="farsight" name="farsight"/>
+    <project path="project" name="anlory_project"/>
+    <project path="manifest" name="manifest"/>
 </manifest>
