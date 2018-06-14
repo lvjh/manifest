@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <manifest>
-    <remote name="anlory" fetch="https://github.com/anlory/" />
+    <remote name="anlory" 
+      fetch=".." 
+      review ="need a gerrit server url" />
     <default remote="anlory" revision="master"/>
     <project path="driver/Universal_GpioDrv" name="Universal_GpioDrv"/>
     <project path="driver/sysfs_attr" name="sysfs_attr"/>
