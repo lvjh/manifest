@@ -3,8 +3,8 @@
 <manifest>
     <remote name="anlory" 
       fetch=".." 
-      review ="need a gerrit server url" />
-    <default remote="anlory" revision="master"/>
+      review ="git@github.com:anlory/" />
+    <default remote="origin" revision="master"/>
     <project path="driver/Universal_GpioDrv" name="Universal_GpioDrv"/>
     <project path="driver/sysfs_attr" name="sysfs_attr"/>
     <project path="binder" name="anlory_binder"/>
