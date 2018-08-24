@@ -12,4 +12,5 @@
     <project path="farsight" name="farsight"/>
     <project path="project" name="anlory_project"/>
     <project path="manifest" name="manifest"/>
+    <project path="ledHidl" name="LedHidl"/>
 </manifest>
